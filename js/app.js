@@ -14,8 +14,8 @@ var locations = [
     -120.544576],
   ["Tuesday, November 7<br />" +
     "Cle Alum Senior Center<br />" +
-  "719 E. 3rd St. Cle Elum WA<br />" +
-  "<10 AM - 2 PM",
+  "719 E. 3rd St., Cle Elum WA<br />" +
+  "10 AM - 2 PM",
     47.194825,
     -120.920775],
   ["Wednesday, November 8<br />" +
